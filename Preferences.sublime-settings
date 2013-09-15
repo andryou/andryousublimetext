@@ -14,7 +14,9 @@
 	],
     "line_padding_bottom": 1,
 	"line_padding_top": 1,
+	"open_files_in_new_window": false,
 	"save_on_focus_lost": true,
-    "hot_exit": false,
+    "shift_tab_unindent": true,
+    "hot_exit": false,		
     "remember_open_files": false,
 }
