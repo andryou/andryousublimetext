@@ -1,0 +1,20 @@
+{
+    "bold_folder_labels": true,
+    "caret_style": "phase",
+	"color_scheme": "Packages/Color Scheme - Default/Cobalt.tmTheme",
+	"fade_fold_buttons": false,
+	"font_face": "DejaVu Sans Mono",
+	"font_size": 8,
+	"highlight_line": true,
+    "highlight_modified_tabs": true,
+    "indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+    "line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"save_on_focus_lost": true,
+    "hot_exit": false,
+    "remember_open_files": false,
+}
